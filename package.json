@@ -1,6 +1,6 @@
 {
   "name": "sky-app-function-7",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Một component ImageUpload để người dùng có thể tải lên hình ảnh",
   "main": "index.js",
   "scripts": {
